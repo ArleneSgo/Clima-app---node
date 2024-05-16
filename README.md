@@ -6,4 +6,4 @@ Recuerde ejecutar ```npm install``` para las librerias
 
 node app -d "Nueva York"
 
-NOTA: la API que se consulta ya no existe
+NOTA: la API que se consultaba ya no existe se usa otra
